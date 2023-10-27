@@ -1,16 +1,21 @@
-### Hi there 👋
+### Oii! eu sou a Késia 👯
 
-<!--
-**Kesia-silva/Kesia-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudante de Engenharia de Software do Primeiro Semestre na UCB(Universidade Católica de Brasília)
+- 🔍 Buscando experiência na área!
+- 📘 Gith estudantil;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Kesia-silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kesia-silva&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesia-silva&layout=compact&theme=radical">
+</div>
+
+  ##
+
+  <div> 
+  <a href="https://instagram.com/kesiasilva6087" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kesiasilvab6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/k%C3%A9sia-silva-viana-23b004293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
