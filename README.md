@@ -1,4 +1,4 @@
-### Oii! eu sou a Késia 👯
+### Oii! eu sou a Késia ☕
 
 - 🌱 Estudante de Engenharia de Software do Primeiro Semestre na UCB(Universidade Católica de Brasília)
 - 🔍 Buscando experiência na área!
