@@ -1,6 +1,7 @@
 ### Oii! eu sou a Késia ☕
 
 - 🌱 Estudante de Engenharia de Software do Primeiro Semestre na UCB(Universidade Católica de Brasília)
+- 🔍 Em busca de experiêcia na área! 
 - 📘 Gith estudantil;
 
 
