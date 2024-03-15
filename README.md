@@ -1,6 +1,6 @@
 ### Oii! eu sou a Késia ☕
 
-- 🌱 Estudante do Primeiro Semestre da Graduação de Engenharia de Software;
+- 🌸 Graduanda em Engenharia de Software;
 - 📘 Gith estudantil;
 
 
