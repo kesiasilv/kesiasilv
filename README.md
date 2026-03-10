@@ -16,7 +16,7 @@ Engenheira de Software em formação. Atualmente focada em transformar ideias em
 - 🎓 Graduanda em **Engenharia de Software**.
 - 🍎 Desenvolvedora na **Apple Developer Academy**.
 - 📖 Desenvolvi o aplicativo **Sa-bi-á**.
-- 🌪️ Fiz parte do desenvolvimento do jogo **Protocolo Declive**.
+- 🎮 Contribuí para o desenvolvimento do jogo **Protocolo Declive**
 
 ### 🛠️ Tecnologias & Ferramentas
 
@@ -34,12 +34,6 @@ Engenheira de Software em formação. Atualmente focada em transformar ideias em
   <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
 </div>
-
-### 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesiasilv&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiasilv&layout=compact&theme=radical" />
-</p>
 
 ### 📫 Vamos nos conectar?
 <div align="left">
