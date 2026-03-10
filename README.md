@@ -4,10 +4,10 @@ Engenheira de Software em formação. Atualmente focada em transformar ideias em
 
 ### 📱 Meus Aplicativos na App Store
 <div align="left">
-  <a href="COLOQUE_O_LINK_DO_SABIA_AQUI" target="_blank">
+  <a href="https://apps.apple.com/br/app/sa-bi-%C3%A1-aprenda-a-ler/id6747450582" target="_blank">
     <img src="https://img.shields.io/badge/Sa--bi--á-App_Store-007ACC?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
-  <a href="COLOQUE_O_LINK_DO_DECLIVE_AQUI" target="_blank">
+  <a href="https://apps.apple.com/br/app/protocolo-declive/id6752311058" target="_blank">
     <img src="https://img.shields.io/badge/Protocolo_Declive-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
 </div>
@@ -37,8 +37,8 @@ Engenheira de Software em formação. Atualmente focada em transformar ideias em
 
 ### 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesiasilv&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiasilv&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesiasilv&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiasilv&layout=compact&theme=radical" />
 </p>
 
 ### 📫 Vamos nos conectar?
